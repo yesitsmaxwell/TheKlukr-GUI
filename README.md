@@ -1,2 +1,3 @@
-# theklukr-gui
-TheKlukr Discord bot that uses a GUI to start
+# TheKlukr GUI
+## A Discord bot with a HTML-based GUI
+See https://theklukr.yesitsmaxwell.xyz for a full description.
